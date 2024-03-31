@@ -11,7 +11,7 @@ public class Main
         double a = n/3;
         double b = n/4;
         int years;
-        for (years = 0; n < x;years++) 
+        for(years = 0; n < x;years++) 
         {
             n = n + (a-b);
             a = n/3;
